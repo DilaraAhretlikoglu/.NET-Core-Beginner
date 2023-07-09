@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\bin\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\bin\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\bin\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\bin\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\bin\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\refint\If_Else_Yapısı_ve_Ternary_If.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\If_Else_Yapısı_ve_Ternary_If.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\If_Else_Yapısı_ve_Ternary_If\obj\Debug\net7.0\ref\If_Else_Yapısı_ve_Ternary_If.dll
