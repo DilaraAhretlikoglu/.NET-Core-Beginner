@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\bin\Debug\net7.0\For_Döngüsü.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\bin\Debug\net7.0\For_Döngüsü.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\bin\Debug\net7.0\For_Döngüsü.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\bin\Debug\net7.0\For_Döngüsü.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\bin\Debug\net7.0\For_Döngüsü.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\refint\For_Döngüsü.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\For_Döngüsü.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\For_Döngüsü\obj\Debug\net7.0\ref\For_Döngüsü.dll
