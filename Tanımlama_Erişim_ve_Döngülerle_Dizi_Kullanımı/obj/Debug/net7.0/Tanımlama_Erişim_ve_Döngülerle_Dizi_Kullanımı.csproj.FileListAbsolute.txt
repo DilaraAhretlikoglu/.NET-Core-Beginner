@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\bin\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\bin\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\bin\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\bin\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\bin\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\refint\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı\obj\Debug\net7.0\ref\Tanımlama_Erişim_ve_Döngülerle_Dizi_Kullanımı.dll
