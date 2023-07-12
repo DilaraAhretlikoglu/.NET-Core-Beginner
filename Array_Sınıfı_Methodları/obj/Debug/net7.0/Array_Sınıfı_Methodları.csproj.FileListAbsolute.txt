@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\bin\Debug\net7.0\Array_Sınıfı_Methodları.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\bin\Debug\net7.0\Array_Sınıfı_Methodları.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\bin\Debug\net7.0\Array_Sınıfı_Methodları.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\bin\Debug\net7.0\Array_Sınıfı_Methodları.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\bin\Debug\net7.0\Array_Sınıfı_Methodları.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\refint\Array_Sınıfı_Methodları.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\Array_Sınıfı_Methodları.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Array_Sınıfı_Methodları\obj\Debug\net7.0\ref\Array_Sınıfı_Methodları.dll
