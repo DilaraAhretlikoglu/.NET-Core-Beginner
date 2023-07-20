@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\bin\Debug\net7.0\dateTime_and_Math.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\bin\Debug\net7.0\dateTime_and_Math.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\bin\Debug\net7.0\dateTime_and_Math.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\bin\Debug\net7.0\dateTime_and_Math.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\bin\Debug\net7.0\dateTime_and_Math.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\refint\dateTime_and_Math.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\dateTime_and_Math.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\dateTime_and_Math\obj\Debug\net7.0\ref\dateTime_and_Math.dll
