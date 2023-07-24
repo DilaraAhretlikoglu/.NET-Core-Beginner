@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\bin\Debug\net7.0\ArrayList.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\bin\Debug\net7.0\ArrayList.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll
