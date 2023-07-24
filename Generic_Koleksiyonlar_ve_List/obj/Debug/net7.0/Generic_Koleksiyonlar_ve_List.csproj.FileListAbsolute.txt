@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\bin\Debug\net7.0\Generic_Koleksiyonlar_ve_List.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\bin\Debug\net7.0\Generic_Koleksiyonlar_ve_List.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\bin\Debug\net7.0\Generic_Koleksiyonlar_ve_List.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\bin\Debug\net7.0\Generic_Koleksiyonlar_ve_List.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\bin\Debug\net7.0\Generic_Koleksiyonlar_ve_List.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\refint\Generic_Koleksiyonlar_ve_List.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\Generic_Koleksiyonlar_ve_List.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Generic_Koleksiyonlar_ve_List\obj\Debug\net7.0\ref\Generic_Koleksiyonlar_ve_List.dll
