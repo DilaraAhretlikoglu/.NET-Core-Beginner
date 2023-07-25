@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\bin\Debug\net7.0\soru3.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\bin\Debug\net7.0\soru3.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\bin\Debug\net7.0\soru3.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\bin\Debug\net7.0\soru3.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\bin\Debug\net7.0\soru3.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\refint\soru3.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\soru3.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\odev2\soru3\obj\Debug\net7.0\ref\soru3.dll
