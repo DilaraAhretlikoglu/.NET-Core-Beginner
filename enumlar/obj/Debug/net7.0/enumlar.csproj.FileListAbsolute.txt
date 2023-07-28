@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\bin\Debug\net7.0\enumlar.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\bin\Debug\net7.0\enumlar.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\bin\Debug\net7.0\enumlar.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\bin\Debug\net7.0\enumlar.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\bin\Debug\net7.0\enumlar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\refint\enumlar.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\enumlar.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\enumlar\obj\Debug\net7.0\ref\enumlar.dll
