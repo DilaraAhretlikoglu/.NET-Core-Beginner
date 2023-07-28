@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
