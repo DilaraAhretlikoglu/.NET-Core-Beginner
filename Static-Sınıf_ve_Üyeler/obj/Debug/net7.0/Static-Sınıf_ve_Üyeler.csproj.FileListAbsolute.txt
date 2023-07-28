@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\bin\Debug\net7.0\Static-Sınıf_ve_Üyeler.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\bin\Debug\net7.0\Static-Sınıf_ve_Üyeler.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\bin\Debug\net7.0\Static-Sınıf_ve_Üyeler.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\bin\Debug\net7.0\Static-Sınıf_ve_Üyeler.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\bin\Debug\net7.0\Static-Sınıf_ve_Üyeler.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\refint\Static-Sınıf_ve_Üyeler.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\Static-Sınıf_ve_Üyeler.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Static-Sınıf_ve_Üyeler\obj\Debug\net7.0\ref\Static-Sınıf_ve_Üyeler.dll

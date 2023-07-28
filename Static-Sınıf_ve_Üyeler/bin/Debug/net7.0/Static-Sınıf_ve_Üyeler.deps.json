@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Static-Sınıf_ve_Üyeler/1.0.0": {
+        "runtime": {
+          "Static-Sınıf_ve_Üyeler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static-Sınıf_ve_Üyeler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
