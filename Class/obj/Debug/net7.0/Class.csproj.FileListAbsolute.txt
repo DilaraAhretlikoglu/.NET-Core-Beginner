@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\bin\Debug\net7.0\Class.exe
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\bin\Debug\net7.0\Class.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\bin\Debug\net7.0\Class.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\bin\Debug\net7.0\Class.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\bin\Debug\net7.0\Class.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\refint\Class.dll
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.pdb
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\Class.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\.NET-Core-Beginner\Class\obj\Debug\net7.0\ref\Class.dll
